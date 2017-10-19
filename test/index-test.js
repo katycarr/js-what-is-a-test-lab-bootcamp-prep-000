@@ -23,4 +23,7 @@ describe('what-is-a-test', () => {
 
 })
 
-console.log("Hello, world!");
+function sayHello() {
+  console.log('Hello!')
+}
+
